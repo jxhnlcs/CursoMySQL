@@ -1,2 +1,2 @@
-# curso_mysql
-Aulas do curso MySQL 
+# Curso MySQL
+Aulas do curso MySQL curso em vídeo
